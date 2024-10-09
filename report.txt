@@ -1,0 +1,29 @@
+BMI and BMR Calculator Report
+=============================
+
+User Details:
+Age: 21 years
+Weight: 78 kg
+Height: 172 cm
+Gender: Male
+Activity Level: 3
+
+Calculated Metrics:
+BMI: 26.3656
+BMR: 1755 kcal/day
+Daily Calorie Needs: 2220.25 kcal
+
+Macronutrient Breakdown:
+Protein: 111.012 grams
+Fat: 61.6736 grams
+Carbohydrates: 305.284 grams
+
+Personalized Advice:
+• You are overweight. Consider adopting a calorie-controlled diet and increasing physical activity.
+• Incorporate more fruits, vegetables, and lean proteins into your meals.
+• Aim for at least 150 minutes of moderate-intensity exercise per week.
+
+Activity Level Advice:
+• Moderate: You have a balanced activity level.
+• Continue with your current routine to maintain your fitness and health.
+• Adding variety to your workouts can help prevent plateaus and keep you motivated.
